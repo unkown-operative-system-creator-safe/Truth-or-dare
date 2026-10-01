@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Truth or Dare: After Dark</string>
+    <string name="home_title">Truth or Dare</string>
+    <string name="age_gate_title">Are you 18 or older?</string>
+    <string name="yes_18">Yes, I am 18+</string>
+    <string name="no_under_18">No, I’m under 18</string>
+    <string name="continue_text">Continue</string>
+    <string name="category_title">Choose a category</string>
+    <string name="bedroom">Bedroom</string>
+    <string name="risky">Risky</string>
+    <string name="no_fear">No Fear</string>
+    <string name="settings_title">Settings</string>
+    <string name="summary_title">Session Summary</string>
+    <string name="safe_word">Safe word</string>
+    <string name="next_question">Next question</string>
+    <string name="skip">Skip</string>
+    <string name="start_game">Start game</string>
+    <string name="back">Back</string>
+    <string name="minor_mode_locked">Minor-safe mode is active.</string>
+    <string name="consent_prompt">This is a consensual adult party game. Want to continue?</string>
+    <string name="consent_yes">Yes, let’s play</string>
+    <string name="consent_no">No, exit</string>
+</resources>
